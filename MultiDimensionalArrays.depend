@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1722011101 source:c:\users\jett\documents\c++ projects\multidimensionalarrays\main.cpp
+	<iostream>
+	"MultiDimensionalArraysEQ1.h"
+	"MultiDimensionalArraysEQ2.h"
+	"MultiDimensionalArraysEQ3.h"
+	"MultiDimensionalArraysMQ1.h"
+	"MultiDimensionalArraysMQ2.h"
+	"MultiDimensionalArraysHQ1.h"
+	"MultiDimensionalArraysHQ2.h"
+	"TicTacToe.h"
+
+1721229443 c:\users\jett\documents\c++ projects\multidimensionalarrays\multidimensionalarrayseq1.h
+	<iostream>
+
+1721229442 c:\users\jett\documents\c++ projects\multidimensionalarrays\multidimensionalarrayseq2.h
+	<iostream>
+
+1721135816 c:\users\jett\documents\c++ projects\multidimensionalarrays\multidimensionalarrayseq3.h
+	<iostream>
+
+1721520783 c:\users\jett\documents\c++ projects\multidimensionalarrays\multidimensionalarraysmq1.h
+	<iostream>
+
+1721397701 c:\users\jett\documents\c++ projects\multidimensionalarrays\multidimensionalarraysmq2.h
+	<iostream>
+
+1721560488 c:\users\jett\documents\c++ projects\multidimensionalarrays\multidimensionalarrayshq1.h
+	<iostream>
+
+1721567596 c:\users\jett\documents\c++ projects\multidimensionalarrays\multidimensionalarrayshq2.h
+	<iostream>
+
+1722341758 c:\users\jett\documents\c++ projects\multidimensionalarrays\tictactoe.h
+	<iostream>
+
